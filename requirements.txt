@@ -7,3 +7,4 @@ xgboost
 joblib
 gunicorn
 python-dotenv
+dill
